@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "727160124629",
+    "firebase_url": "https://shop-3a991.firebaseio.com",
+    "project_id": "shop-3a991",
+    "storage_bucket": "shop-3a991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727160124629:android:6a2f715a4a1471f82a1e5c",
+        "android_client_info": {
+          "package_name": "com.oojohn.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727160124629-trjrm3vrs0n4ufqbn3oukk527931s8oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8iJWZApJ7_lgR0g1zEGjUYmRkeYW6xGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727160124629-trjrm3vrs0n4ufqbn3oukk527931s8oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
